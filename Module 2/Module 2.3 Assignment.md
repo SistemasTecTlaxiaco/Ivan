@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Jose Alfredo Roman Cruz Modificado en local en 2.3
+=======
+Jose Alfredo Roman Cruz
+>>>>>>> 5c0084ac2edf13aaec24eb1c6e70b875c206784e
 # Módulo 2.3 Asignación
 
 En esta lección, aprendió más sobre cómo se usan las ramas en el flujo de trabajo de GitHub. Para completar esta tarea, usará la línea de comando para crear una nueva rama y cambiar este archivo en su repositorio local siguiendo las instrucciones a continuación:
