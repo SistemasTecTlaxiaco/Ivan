@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Jose Alfredo Roman Cruz Modificado en local en 2.3
+Ivan Espinosa Lopez Modificado en local en 2.3
 =======
 Jose Alfredo Roman Cruz
 >>>>>>> 5c0084ac2edf13aaec24eb1c6e70b875c206784e
